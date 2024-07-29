@@ -1,0 +1,167 @@
+body{
+    font-family: "Roboto", sans-serif;
+    padding: 0;
+    margin: 0;
+    size: cover;
+    
+}
+
+header{
+    background-image: linear-gradient(180deg,#c4b6fd,#93acfc);
+}
+
+#nabs{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    background-color: white;
+}
+
+.navbar-brand,
+.text-primary{
+    color: #085aca !important;
+    
+}
+
+.nav-link{
+    font-weight: 500;
+}
+.btn-primary{
+    background-color: #085aca !important;
+    border: none;
+}
+
+.btn-primary:hover{
+    background-color: #257dfd !important;
+}
+.nav-link:hover{
+    color: #085aca;
+}
+p{
+    font-size: 18px;
+}
+
+
+.blue-bg{
+    background-color: #085aca;
+    color: #fff;
+}
+.text-primary{
+    color: #257dfd;
+    
+}
+
+.icons{
+    height: 32px;
+    width: 32px;
+    margin-bottom: 16px;
+    color: #0a58ca;
+    background-color: #f2f2f2;
+    padding: 6px;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{
+    border: none !important;
+    background-color: #0a58ca;
+    color: white;
+}
+
+.nav-tabs{
+    border: none !important;
+}
+
+.form-label{
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: 1px solid #000;
+    outline: none;
+    font-size: 13px;
+    background-color: transparent;
+}
+
+#Email{
+    width: 365px;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+#DOB{
+    width: 365px;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+#User{
+    width: 365px;
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+#Address{
+    width: 365px;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+
+#Area{
+    width: 365px;
+    margin-top: 20px;
+    outline: none;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+#form-content{
+    width: 500px;
+    height: 600px;
+    border: 1px solid black;
+}
+
+.custom-carousel {
+    max-width: 1000px; /* Set the maximum width of the carousel */
+    margin: 0 auto;  /* Center the carousel horizontally */
+  }
+
+  .custom-carousel .carousel-indicators {
+    bottom: 10px; /* Adjust the position of the indicators if needed */
+  }
+
+  .custom-carousel .carousel-item img {
+    max-width: 130%; /* Make sure images do not exceed the carousel width */
+    height: auto; /* Maintain the aspect ratio of the images */
+  }
+  
+#ex{
+    padding-left: 150px;
+    padding-top: 40px;
+}
+
+
+#but{
+    margin-left: 150px;
+    margin-top: 40px;
+}
+
+#footer-area{
+    padding: 40px 0;
+    background: rgb(169, 169, 228);
+    display: block;
+    margin-top: 60px;
+    max-width: 150%;
+    padding-left: 100px;
+    border-top-left-radius: 50px;
+        
+}
+
+#footer-are{
+    padding: 10px 0;
+    background: #e7e4e4;
+    max-width: 150%;
+    padding-left: 100px;
+    text-align: center;
+}
